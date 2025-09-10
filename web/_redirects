@@ -1,11 +1,1 @@
-[build]
-  command = "flutter build web --release"
-  publish = "build/web"
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
-
-[build.environment]
-  FLUTTER_VERSION = "3.24.5"
+/*    /index.html   200
