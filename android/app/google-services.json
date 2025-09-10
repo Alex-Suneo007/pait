@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211512879564",
+    "project_id": "centromedicoapp-74c0d",
+    "storage_bucket": "centromedicoapp-74c0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211512879564:android:7c551a0431bfd510049569",
+        "android_client_info": {
+          "package_name": "com.example.pait_4to"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3vFPwMFa7BiZLGuyR9yzwTLGf9DapsT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
